@@ -1,4 +1,4 @@
-## Hi there 👋
+## “Focused on API, UI, and mobile testing with real-world projects simulating production environments.”
 
 # 👋 Hi, I'm Jaime Huerta
 
