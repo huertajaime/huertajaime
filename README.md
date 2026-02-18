@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jaime Huerta
 
-## 🧪 Quality Assurance Engineer
+## 🧪 Jr Quality Assurance Engineer
 QA Engineer with hands-on experience in **manual and automated testing** for web, mobile, and API-based applications.
 Focused on finding defects early, improving product quality, and building reliable test coverage.
 
